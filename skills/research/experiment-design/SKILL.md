@@ -1,6 +1,6 @@
 ---
 name: experiment-design
-description: Design the method and experiments for a confirmed research problem: hypotheses, baselines, datasets, metrics, ablations, statistics, threats to validity, compute and budget, and an analysis plan fixed before running anything. Use when the user asks "how do I test this", "design the experiments", "what baselines and metrics", "plan the study", or after literature reading is done.
+description: Design the method and experiments for a confirmed research problem, covering hypotheses, baselines, datasets, metrics, ablations, statistics, threats to validity, compute and budget, and an analysis plan fixed before running anything. Use when the user asks "how do I test this", "design the experiments", "what baselines and metrics", "plan the study", or after literature reading is done.
 ---
 
 # Experiment Design

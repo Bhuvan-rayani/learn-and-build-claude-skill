@@ -1,6 +1,6 @@
 ---
 name: paper-review
-description: Review a research draft the way a skeptical peer reviewer would: audit claims against evidence, find overclaiming, missing baselines, unclear writing, and venue-fit problems, then rank the fixes. Use when the user says "review my paper", "act as reviewer 2", "is this ready to submit", "find weaknesses in my draft", or before submission.
+description: Review a research draft the way a skeptical peer reviewer would, by auditing claims against evidence, find overclaiming, missing baselines, unclear writing, and venue-fit problems, then rank the fixes. Use when the user says "review my paper", "act as reviewer 2", "is this ready to submit", "find weaknesses in my draft", or before submission.
 ---
 
 # Paper Review
