@@ -1,0 +1,20 @@
+{
+  "name": "learn-build-research",
+  "version": "0.1.0",
+  "description": "Skills for learning while you build and for doing research with guidance: staged project mentoring, problem-statement optimization, literature overlap checks, reading plans, experiment design, paper drafting and review.",
+  "author": { "name": "Bhuvan-rayani", "url": "https://github.com/Bhuvan-rayani" },
+  "homepage": "https://github.com/Bhuvan-rayani/learn-and-build-claude-skill",
+  "repository": "https://github.com/Bhuvan-rayani/learn-and-build-claude-skill",
+  "license": "MIT",
+  "keywords": ["learning", "mentoring", "research", "paper-writing", "literature-review", "problem-statement", "skills"],
+  "skills": [
+    "./skills/learning/learn-and-build",
+    "./skills/learning/research-mentor",
+    "./skills/research/problem-framing",
+    "./skills/research/literature-overlap",
+    "./skills/research/reading-guide",
+    "./skills/research/experiment-design",
+    "./skills/research/paper-drafting",
+    "./skills/research/paper-review"
+  ]
+}

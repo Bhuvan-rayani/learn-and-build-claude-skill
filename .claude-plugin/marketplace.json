@@ -1,0 +1,14 @@
+{
+  "name": "bhuvan-rayani",
+  "owner": { "name": "Bhuvan-rayani", "url": "https://github.com/Bhuvan-rayani" },
+  "description": "Skills for learning while building projects and for guided research.",
+  "plugins": [
+    {
+      "name": "learn-build-research",
+      "source": "./",
+      "description": "Staged mentoring for projects and research papers: learn each stage, then build or write it, with verified sources and honest evidence.",
+      "category": "learning",
+      "keywords": ["learning", "mentoring", "research", "paper-writing"]
+    }
+  ]
+}
